@@ -21,10 +21,12 @@ begin creating the 2D sketch.
 <img width="545" height="607" alt="step 1" src="https://github.com/user-attachments/assets/39792315-0183-4293-9629-c3d105737e38" />
 
 Tool: Create Sketch / Sketch icon.
+
 Step 2 -- Select the Sketch Plane
 Select the required plane on which the 2D sketch will be created.
 
 Tool/command: Sketch Plane Selection.
+
 Step 3 -- Draw the Given Sketch Using Sketching Features
 Use the sketching features to draw the given dimensioned profile.
 
@@ -36,6 +38,7 @@ Rectangle -- to create rectangular geometry. - Polygon -- to
 create polygonal geometry.
 
 Choose the sketch entities needed to reproduce the supplied drawing.
+
 Step 4 -- Edit the Sketch Using Sketch Modifying Features
 Use the sketch modifying features to edit and refine the sketch.
 
@@ -45,6 +48,7 @@ Tools: - Cut - Trim - Mirror - Move
 
 Apply the relevant modifying features to the sketch while following the
 given drawing.
+
 Step 5 -- Measure the Sketch Dimensions
 Use the Inspect feature to measure and check the dimensions of the
 sketch.
@@ -52,12 +56,14 @@ sketch.
 <img width="721" height="671" alt="circle" src="https://github.com/user-attachments/assets/f6cae3d4-bc88-4d1c-8356-31ba1213a930" />
 
 Tool: Inspect.
+
 Step 6 -- Finalize the Sketch
 After completing the sketch, select Finish Sketch to finalize it.
 
 <img width="432" height="430" alt="finish sketch" src="https://github.com/user-attachments/assets/1f8fbeed-40f4-4d63-9c9c-fd1f147fbcd1" />
 
 Tool/command: Finish Sketch.
+
 Step 7 -- Switch to Drawing Mode and Create the ISO Drawing
 After finishing the sketch, switch to Drawing mode and plot the
 sketch using the ISO standard.
